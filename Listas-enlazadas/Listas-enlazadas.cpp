@@ -63,7 +63,7 @@ int main() {
 
 	}
 
-	cout << "Imprimiendo Lista de numero " << endl;
+	cout << "Imprimiendo Lista de numeros " << endl;
 	imprimirlista(cabeza);
 
 	borrarLista(cabeza);
