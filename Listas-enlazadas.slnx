@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Listas-enlazadas/Listas-enlazadas.vcxproj" Id="ccae9947-3c80-4c96-b87a-f45080a5d3c0" />
+</Solution>
